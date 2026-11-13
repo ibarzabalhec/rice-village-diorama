@@ -1,0 +1,5275 @@
+{
+"rows": [
+{
+"n": "Shake Shack",
+"suite": "A140",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.shakeshack.com/location/rice-village-houston/",
+"final": "https://shakeshack.com/location/rice-village-houston/",
+"code": 403,
+"title": "Attention Required! | Cloudflare",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/shake-shack/",
+"final": "https://rice-village.com/tenant/shake-shack/",
+"code": 200,
+"title": "Shake Shack Houston - Burgers, Fries & Shakes Restaurant | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Studs",
+"suite": "A137",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://studs.com/",
+"final": "https://studs.com/",
+"code": 200,
+"title": "Studs - A fresh take on ear piercing & earrings",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/studs/",
+"final": "https://rice-village.com/tenant/studs/",
+"code": 200,
+"title": "Studs Houston - Ear Piercing Studio & Jewelry Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Van Leeuwen Ice Cream",
+"suite": "A135",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://vanleeuwenicecream.com/",
+"final": "https://vanleeuwenicecream.com/",
+"code": 200,
+"title": "Home | Van Leeuwen Ice Cream",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/van-leeuwen/",
+"final": "https://rice-village.com/tenant/van-leeuwen/",
+"code": 200,
+"title": "Van Leeuwen Houston - Ice Cream Shop & Dessert Cafe | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Village Bakery",
+"suite": "A134",
+"area": "RV",
+"bid": "1377",
+"notes": []
+},
+{
+"n": "Sweetgreen",
+"suite": "A131",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.sweetgreen.com/",
+"final": "https://www.sweetgreen.com/",
+"code": 200,
+"title": "sweetgreen | Inspiring healthier communities",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/sweetgreen/",
+"final": "https://rice-village.com/tenant/sweetgreen/",
+"code": 200,
+"title": "Sweetgreen Houston - Salads, Bowls & Healthy Fast Food | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Starbucks",
+"suite": "A132",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.starbucks.com/",
+"final": "https://www.starbucks.com/",
+"code": 200,
+"title": "Starbucks Coffee Company",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/starbucks/",
+"final": "https://rice-village.com/tenant/starbucks/",
+"code": 200,
+"title": "Starbucks Houston - Coffee Shop & Cafe | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Drybar",
+"suite": "A130",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.drybarshops.com/service/locator/detail/?slug=houston-at-rice-village",
+"final": "https://www.drybarshops.com/service/locator/detail/?slug=houston-at-rice-village",
+"code": 200,
+"title": "",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/drybar/",
+"final": "https://rice-village.com/tenant/drybar/",
+"code": 200,
+"title": "Drybar Houston - Blowouts, Styling & Blow Dry Bar | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Madison Reed Color Bar",
+"suite": "A127",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.madison-reed.com/",
+"final": "https://www.madison-reed.com/",
+"code": 200,
+"title": "Madison Reed Hair Color | Salon Quality At Home or Book Service",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/madison-reed/",
+"final": "https://rice-village.com/tenant/madison-reed/",
+"code": 200,
+"title": "Madison Reed Houston - Hair Color Studio | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Glo30",
+"suite": "A125",
+"area": "RV",
+"bid": "1377",
+"notes": [
+"Fixed: Rice Village page links to a dead location page; brand site used"
+],
+"web": {
+"url": "https://glo30.com/",
+"final": "https://glo30.com/",
+"code": 200,
+"title": "GLO30",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "fixed"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/glo30/",
+"final": "https://rice-village.com/tenant/glo30/",
+"code": 200,
+"title": "GLO30 Houston - AI Skincare & Facial Services | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Sunglass Hut",
+"suite": "A124",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.sunglasshut.com/",
+"final": "https://www.sunglasshut.com/",
+"code": 403,
+"title": "Access Denied",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/sunglass-hut/",
+"final": "https://rice-village.com/tenant/sunglass-hut/",
+"code": 200,
+"title": "Sunglass Hut Houston - Designer Sunglasses Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Birkenstock",
+"suite": "A123",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.birkenstock.com/us",
+"final": "https://www.birkenstock.com/us",
+"code": 200,
+"title": "Sandals, Shoes & Clogs | BIRKENSTOCK United States | Homepage",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/birkenstock/",
+"final": "https://rice-village.com/tenant/birkenstock/",
+"code": 200,
+"title": "Birkenstock Houston - Foot Care & Comfort Shoes | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "On",
+"suite": "A101",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.on.com/en-us/",
+"final": "https://www.on.com/en-us/",
+"code": 200,
+"title": "On | Swiss Performance Running Shoes & Clothing",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/on/",
+"final": "https://rice-village.com/tenant/on/",
+"code": 200,
+"title": "On Cloud Shoes Houston - Athletic Running Shoes & Apparel | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Lululemon",
+"suite": "A100",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://shop.lululemon.com/stores/us/houston/rice-village",
+"final": "https://shop.lululemon.com/stores/us/houston/rice-village",
+"code": 403,
+"title": "Access Denied",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/lululemon-athletica/",
+"final": "https://rice-village.com/tenant/lululemon-athletica/",
+"code": 200,
+"title": "lululemon Houston - Athletic Apparel & Activewear | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Luminary Lifestyle",
+"suite": "A103",
+"area": "RV",
+"bid": "1377",
+"notes": [
+"Removed: site shows store unavailable; Instagram from the Rice Village page used"
+],
+"dropped": "https://luminarylifestyle.com",
+"listing": {
+"url": "https://rice-village.com/tenant/luminary/",
+"final": "https://rice-village.com/tenant/luminary/",
+"code": 200,
+"title": "Luminary Houston - Women\u2019s Fashion Boutique | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+},
+"social": {
+"url": "https://instagram.com/luminarylifestyle/",
+"final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fluminarylifestyle%2F&is_from_rle",
+"code": 200,
+"title": "Instagram",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+}
+},
+{
+"n": "Gorjana",
+"suite": "A104",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.gorjana.com",
+"final": "https://www.gorjana.com/",
+"code": 200,
+"title": "gorjana Jewelry Online and In Stores | Gifts They'll Love",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/gorjana/",
+"final": "https://rice-village.com/tenant/gorjana/",
+"code": 200,
+"title": "gorjana Houston - Fine Jewelry Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Mizzen + Main",
+"suite": "A105",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.mizzenandmain.com",
+"final": "https://www.mizzenandmain.com/",
+"code": 429,
+"title": "Vercel Security Checkpoint",
+"status": "blocked",
+"flags": [
+"HTTP 429: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/mizzenmain/",
+"final": "https://rice-village.com/tenant/mizzenmain/",
+"code": 200,
+"title": "Mizzen+Main Houston - Men\u2019s Performance Clothing & Dress Shirts | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Sixty Vines",
+"suite": "A110",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.sixtyvines.com/",
+"final": "https://www.sixtyvines.com/",
+"code": 200,
+"title": "Sixty Vines | Wine Country Restaurant & Wine on Tap",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/sixty-vines/",
+"final": "https://rice-village.com/tenant/sixty-vines/",
+"code": 200,
+"title": "Sixty Vines Houston - Wine Bar, Restaurant & Tasting Room | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Altar'd State",
+"suite": "A114",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.altardstate.com/",
+"final": "https://www.altardstate.com/",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/altard-state/",
+"final": "https://rice-village.com/tenant/altard-state/",
+"code": 200,
+"title": "Altar\u2019d State West University Houston - Boho Clothing Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Warby Parker",
+"suite": "A115",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.warbyparker.com/",
+"final": "https://www.warbyparker.com/",
+"code": 403,
+"title": "Warby Parker",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/warby-parker/",
+"final": "https://rice-village.com/tenant/warby-parker/",
+"code": 200,
+"title": "Warby Parker Houston - Glasses, Contacts & Prescription Eyewear | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Athleta",
+"suite": "A116",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://athleta.gap.com/CookieFailure.do",
+"final": "https://athleta.gap.com/CookieFailure.do",
+"code": 200,
+"title": "Athleta",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/athleta/",
+"final": "https://rice-village.com/tenant/athleta/",
+"code": 200,
+"title": "Athleta West University - Women\u2019s Fitness Clothing Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Lovesac",
+"suite": "A119",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://www.lovesac.com/",
+"final": "https://www.lovesac.com/",
+"code": 200,
+"title": "Sectionals & Bean Bags | Modern Furniture Company | Lovesac",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/lovesac/",
+"final": "https://rice-village.com/tenant/lovesac/",
+"code": 200,
+"title": "Lovesac Houston - Modular Furniture & Sectional Sofas | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Bluemercury",
+"suite": "A120",
+"area": "RV",
+"bid": "1377",
+"notes": [],
+"web": {
+"url": "https://bluemercury.com/",
+"final": "https://bluemercury.com/",
+"code": 200,
+"title": "Bluemercury | Skincare, Makeup, Hair Care, Fragrance & More",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/bluemercury/",
+"final": "https://rice-village.com/tenant/bluemercury/",
+"code": 200,
+"title": "Bluemercury West University - Luxury Beauty Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "West Elm",
+"suite": "D100",
+"area": "RV",
+"bid": "1366",
+"notes": [],
+"web": {
+"url": "https://www.westelm.com/",
+"final": "https://www.westelm.com/",
+"code": 403,
+"title": "West Elm: 403 - Restricted Access",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/west-elm/",
+"final": "https://rice-village.com/tenant/west-elm/",
+"code": 200,
+"title": "West Elm Houston - Modern Furniture, Lighting & Home Decor | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Golden Gray",
+"suite": "D110 (2511 University)",
+"area": "RV",
+"bid": "1366",
+"notes": [],
+"listing": {
+"url": "https://rice-village.com/tenant/golden-gray/",
+"final": "https://rice-village.com/tenant/golden-gray/",
+"code": 200,
+"title": "Golden Gray Boutique | Women\u2019s Fashion | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+},
+"social": {
+"url": "https://www.facebook.com/goldengrayboutique",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgoldengrayboutique",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+}
+},
+{
+"n": "Navy Blue by Aaron Bludorn",
+"suite": "C151",
+"area": "RV",
+"bid": "1381",
+"notes": [],
+"web": {
+"url": "https://www.navybluerestaurant.com",
+"final": "https://www.navybluerestaurant.com/",
+"code": 200,
+"title": "Navy Blue",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/navy-blue/",
+"final": "https://rice-village.com/tenant/navy-blue/",
+"code": 200,
+"title": "Navy Blue Houston - Seafood, Oyster Bar & American Dining | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "FIGS",
+"suite": "C150",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.wearfigs.com/pages/community-hubs",
+"final": "https://www.wearfigs.com/pages/community-hubs",
+"code": 200,
+"title": "Community Hubs \u00b7 FIGS",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "web search"
+}
+},
+{
+"n": "Krewe",
+"suite": "C149",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.krewe.com/",
+"final": "https://www.krewe.com/",
+"code": 200,
+"title": "KREWE | New Orleans Luxury Sunglasses and Eyewear",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/krewe/",
+"final": "https://rice-village.com/tenant/krewe/",
+"code": 200,
+"title": "KREWE Houston - Handcrafted Eyewear & Designer Sunglasses | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "The Beaufort Bonnet Company",
+"suite": "C148",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.thebeaufortbonnetcompany.com/",
+"final": "https://www.thebeaufortbonnetcompany.com/",
+"code": 200,
+"title": "The Beaufort Bonnet Company | Upscale items for babies and children",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/the-beaufort-bonnet-company/",
+"final": "https://rice-village.com/tenant/the-beaufort-bonnet-company/",
+"code": 200,
+"title": "The Beaufort Bonnet Company Houston - Baby & Children\u2019s Clothing | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Paper Source",
+"suite": "C146B",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.papersource.com/",
+"final": "https://www.papersource.com/",
+"code": 200,
+"title": "Stationery Stores, Wedding Invitations, Gifts & More | Paper Source",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/paper-source/",
+"final": "https://rice-village.com/tenant/paper-source/",
+"code": 200,
+"title": "Paper Source Houston - Stationery, Cards, Gifts & Paper Goods | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "ParkerJoe",
+"suite": "C146A",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://parkerjoe.com/",
+"final": "https://parkerjoe.com/",
+"code": 200,
+"title": "ParkerJoe",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/parkerjoe/",
+"final": "https://rice-village.com/tenant/parkerjoe/",
+"code": 200,
+"title": "ParkerJoe Houston - Children\u2019s Boutique & Baby Clothing | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "White House Black Market",
+"suite": "C144",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.whitehouseblackmarket.com/store/",
+"final": "https://www.whitehouseblackmarket.com/store",
+"code": 200,
+"title": "Shop Women's Clothing, Petite, Business Casual, Dresses, Tops & Pants | White House Black Market",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/white-house-black-market/",
+"final": "https://rice-village.com/tenant/white-house-black-market/",
+"code": 200,
+"title": "White House Black Market Houston - Women\u2019s Clothing & Fashion | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Vuori",
+"suite": "C142",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://vuoriclothing.com",
+"final": "https://vuoriclothing.com/",
+"code": 200,
+"title": "Athletic Clothing & Activewear Apparel for Performance \u2013 Vuori",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/vuori/",
+"final": "https://rice-village.com/tenant/vuori/",
+"code": 200,
+"title": "Vuori Houston - Performance Activewear & Athletic Clothing | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Solidcore",
+"suite": "C161",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://solidcore.co/studios/rice-village?siteId=5722048&locationId=3",
+"final": "https://solidcore.co/studios/rice-village?siteId=5722048&locationId=3",
+"code": 200,
+"title": "[solidcore] Classes Near You - Rice Village",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/solidcore/",
+"final": "https://rice-village.com/tenant/solidcore/",
+"code": 200,
+"title": "solidcore Houston - Pilates, Core & Fitness Workouts Studio | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Clique Salon",
+"suite": "C164",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://cliquesalon.com/",
+"final": "https://cliquesalon.com/",
+"code": 200,
+"title": "Top Hair Salon Houston | Rice Village | Clique Salon",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/clique-salon/",
+"final": "https://rice-village.com/tenant/clique-salon/",
+"code": 200,
+"title": "Clique Salon West University Houston - Hair Salon | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Jones Road",
+"suite": "C165",
+"area": "RV",
+"bid": "1379",
+"notes": [
+"Fixed: unwrapped from a Sophos link-protection redirect"
+],
+"web": {
+"url": "https://www.jonesroadbeauty.com/",
+"final": "https://www.jonesroadbeauty.com/",
+"code": 200,
+"title": "Jones Road Beauty - Clean No-Makeup Makeup",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/coming-soon-jones-road-beauty/",
+"final": "https://rice-village.com/tenant/coming-soon-jones-road-beauty/",
+"code": 200,
+"title": "Jones Road Beauty | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Sugared + Bronzed",
+"suite": "C167",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://sugaredandbronzed.com/",
+"final": "https://sugaredandbronzed.com/",
+"code": 200,
+"title": "Natural Sugaring Hair Removal + Airbrush Tanning | SUGARED + BRONZED",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/sugared-bronzed/",
+"final": "https://rice-village.com/tenant/sugared-bronzed/",
+"code": 200,
+"title": "SUGARED + BRONZED | Sugaring & Airbrush Tanning | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "SkinSpirit",
+"suite": "C168",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.skinspirit.com",
+"final": "https://www.skinspirit.com/",
+"code": 200,
+"title": "# 1 Provider of Botox & Filler | SkinSpirit",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/skinspirit/",
+"final": "https://rice-village.com/tenant/skinspirit/",
+"code": 200,
+"title": "SkinSpirit Houston - Med Spa & Aesthetic Skincare Treatments | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Sephora",
+"suite": "C170/C175",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.sephora.com/",
+"final": "https://www.sephora.com/",
+"code": 200,
+"title": "Makeup, Skincare, Fragrance, Hair & Beauty Products | Sephora",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/sephora/",
+"final": "https://rice-village.com/tenant/sephora/",
+"code": 200,
+"title": "Sephora Houston - Makeup, Skincare & Beauty Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "The Rice Box",
+"suite": "H100 (5504 Morningside)",
+"area": "RV",
+"bid": "1380",
+"notes": [],
+"web": {
+"url": "https://riceboxed.com/",
+"final": "https://riceboxed.com/",
+"code": 200,
+"title": "HOME // The Rice Box // American Chinese takeout in Houston",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/the-rice-box/",
+"final": "https://rice-village.com/tenant/the-rice-box/",
+"code": 200,
+"title": "The Rice Box Houston - Chinese Food & Takeout Restaurant | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Hopdoddy",
+"suite": "C177",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.hopdoddy.com/",
+"final": "https://www.hopdoddy.com/",
+"code": 200,
+"title": "Hopdoddy Burger Bar | Fresh, Handmade Burgers",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/hopdoddy-burger-bar/",
+"final": "https://rice-village.com/tenant/hopdoddy-burger-bar/",
+"code": 200,
+"title": "Hopdoddy Burger Bar Houston - Gourmet Burgers & Fries | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Mendocino Farms",
+"suite": "C179",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://www.mendocinofarms.com/",
+"final": "https://www.mendocinofarms.com/",
+"code": 403,
+"title": "Attention Required! | Cloudflare",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/mendocino-farms/",
+"final": "https://rice-village.com/tenant/mendocino-farms/",
+"code": 200,
+"title": "Mendocino Farms Houston - Sandwich, Salad & Healthy Catering | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "D'Amico's Italian Market Cafe",
+"suite": "C180",
+"area": "RV",
+"bid": "1379",
+"notes": [],
+"web": {
+"url": "https://damico-cafe.com/",
+"final": "https://damico-cafe.com/",
+"code": 200,
+"title": "Home - D\u2019Amico\u2019s Italian Market Cafe",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/damicos-italian-market-cafe/",
+"final": "https://rice-village.com/tenant/damicos-italian-market-cafe/",
+"code": 200,
+"title": "D\u2019Amico\u2019s Houston - Italian Market, Cafe & Restaurant | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Hamsa",
+"suite": "F100 (5555 Morningside)",
+"area": "RV",
+"bid": "939",
+"notes": [],
+"web": {
+"url": "https://www.hamsahtx.com/",
+"final": "https://www.hamsahtx.com/",
+"code": 200,
+"title": "Home | Hamsa",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/hamsa/",
+"final": "https://rice-village.com/tenant/hamsa/",
+"code": 200,
+"title": "Hamsa Houston - Israeli & Mediterranean Restaurant | Rice Village | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Badolina Bakery & Cafe",
+"suite": "F150",
+"area": "RV",
+"bid": "939",
+"notes": [],
+"web": {
+"url": "https://www.badolinabakery.com/",
+"final": "https://www.badolinabakery.com/",
+"code": 200,
+"title": "Home | Badolina",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/badolina-bakery-cafe/",
+"final": "https://rice-village.com/tenant/badolina-bakery-cafe/",
+"code": 200,
+"title": "Badolina Bakery & Cafe Houston - Artisan Bakery, Pastries & Coffee | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Jeni's Splendid Ice Creams",
+"suite": "5411 Morningside",
+"area": "RV",
+"bid": "938",
+"notes": [],
+"web": {
+"url": "https://jenis.com/",
+"final": "https://jenis.com/",
+"code": 200,
+"title": "Jeni's Ice Creams",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/jenis-ice-creams/",
+"final": "https://rice-village.com/tenant/jenis-ice-creams/",
+"code": 200,
+"title": "Jeni\u2019s Splendid Ice Creams Houston - Artisan Ice Cream Shop & Desserts | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Bluestone Lane",
+"suite": "C140",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://bluestonelane.com/cafes/rice-village/",
+"final": "https://bluestonelane.com/cafes/rice-village/",
+"code": 200,
+"title": "Coffee & Brunch in Rice Village, Houston | Bluestone Lane",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/bluestone-lane/",
+"final": "https://rice-village.com/tenant/bluestone-lane/",
+"code": 200,
+"title": "Bluestone Lane Houston - Coffee Shop, Brunch & Healthy Cafe | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Faherty",
+"suite": "C138",
+"area": "RV",
+"bid": "1378",
+"notes": []
+},
+{
+"n": "Hill House Home",
+"suite": "C136",
+"area": "RV",
+"bid": "1378",
+"notes": [
+"Fixed: ad-tracking parameters removed"
+],
+"web": {
+"url": "https://www.hillhousehome.com/collections/new-arrivals",
+"final": "https://www.hillhousehome.com/collections/new-arrivals",
+"code": 200,
+"title": "New Arrivals | Hill House Home",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/hill-house-home/",
+"final": "https://rice-village.com/tenant/hill-house-home/",
+"code": 200,
+"title": "Hill House Home | Women\u2019s Fashion | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "CB2",
+"suite": "C130",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.cb2.com/",
+"final": "https://www.cb2.com/",
+"code": 403,
+"title": "Access Denied",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/cb2/",
+"final": "https://rice-village.com/tenant/cb2/",
+"code": 200,
+"title": "CB2 West University Houston - Modern Furniture Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Hudson House",
+"suite": "C124",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.hudsonhousehp.com/",
+"final": "https://www.hudsonhousehp.com/",
+"code": 0,
+"title": "",
+"status": "blocked",
+"flags": [
+"no answer to automated requests on two tries"
+],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/hudson-house/",
+"final": "https://rice-village.com/tenant/hudson-house/",
+"code": 200,
+"title": "Hudson House Houston - Seafood, Oysters & Cocktails Restaurant | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Banana Republic",
+"suite": "C120",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://bananarepublic.gap.com/CookieFailure.do",
+"final": "https://bananarepublic.gap.com/CookieFailure.do",
+"code": 200,
+"title": "Banana Republic",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/banana-republic/",
+"final": "https://rice-village.com/tenant/banana-republic/",
+"code": 200,
+"title": "Banana Republic West University - Upscale Clothing Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Loft",
+"suite": "C116",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.loft.com/store/tx/houston/2400-university-blvd",
+"final": "https://www.loft.com/store/tx/houston/2400-university-blvd",
+"code": 200,
+"title": "Women's Clothing Near Houston, TX | LOFT",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/loft/",
+"final": "https://rice-village.com/tenant/loft/",
+"code": 200,
+"title": "LOFT Houston - Women\u2019s Clothing Store | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Tecovas",
+"suite": "C114",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.tecovas.com/stores/houston-tx-rice-village",
+"final": "https://www.tecovas.com/stores/houston-tx-rice-village",
+"code": 200,
+"title": "Rice Village Houston, TX | Tecovas",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/tecovas/",
+"final": "https://rice-village.com/tenant/tecovas/",
+"code": 200,
+"title": "Tecovas Houston - Cowboy Boots & Western Wear | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Duck Camp",
+"suite": "C112",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://duckcamp.com/",
+"final": "https://duckcamp.com/",
+"code": 200,
+"title": "Duck Camp",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/duck-camp/",
+"final": "https://rice-village.com/tenant/duck-camp/",
+"code": 200,
+"title": "Duck Camp Houston - Hunting, Fishing & Outdoor Apparel | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "TASC Performance",
+"suite": "C110",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.tascperformance.com/",
+"final": "https://www.tascperformance.com/",
+"code": 200,
+"title": "Activewear & Athletic Clothing: Comfortable Apparel Made Better \u2013 tasc Performance",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/tasc-performance/",
+"final": "https://rice-village.com/tenant/tasc-performance/",
+"code": 200,
+"title": "Tasc Performance Houston - Activewear Clothing & Sportswear | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Black Walnut Cafe",
+"suite": "C100",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.blackwalnutcafe.com/",
+"final": "https://www.blackwalnutcafe.com/",
+"code": 200,
+"title": "Fast Casual American Restaurant for Breakfast, Brunch, Lunch, & Dinner | Black Walnut",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/black-walnut-cafe/",
+"final": "https://rice-village.com/tenant/black-walnut-cafe/",
+"code": 200,
+"title": "Black Walnut Cafe Houston - Brunch, Lunch & All Day Dinin | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "Kelsey-Seybold Women's Clinic",
+"suite": "C200 (2nd floor)",
+"area": "RV",
+"bid": "1378",
+"notes": [],
+"web": {
+"url": "https://www.kelsey-seybold.com/find-a-location/rice-village-obgyn",
+"final": "https://www.kelsey-seybold.com/find-a-location/rice-village-obgyn",
+"code": 200,
+"title": "Rice Village OB/GYN | Kelsey-Seybold Clinic",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "rice-village.com tenant page"
+},
+"listing": {
+"url": "https://rice-village.com/tenant/kelsey-seybold-clinic/",
+"final": "https://rice-village.com/tenant/kelsey-seybold-clinic/",
+"code": 200,
+"title": "Kelsey-Seybold Clinic Houston - Women\u2019s Health & Medical Center | Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false
+}
+},
+{
+"n": "First Community Credit Union",
+"suite": "University Blvd",
+"area": "RV",
+"bid": "1363",
+"notes": [],
+"web": {
+"url": "https://fccu.org/community",
+"final": "https://fccu.org/community",
+"code": 200,
+"title": "Community - First Community Credit Union",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "web search"
+}
+},
+{
+"n": "Rice Management Company",
+"suite": "F200 (2nd floor)",
+"area": "RV",
+"bid": "939",
+"notes": [
+"Fixed: added"
+],
+"web": {
+"url": "https://investments.rice.edu/",
+"final": "https://investments.rice.edu/",
+"code": 200,
+"title": "Rice Management Company | Rice University",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "fixed"
+}
+},
+{
+"n": "REIS Associates",
+"suite": "C210",
+"area": "RV",
+"bid": "1379",
+"notes": [
+"Fixed: company site on a Squarespace address"
+],
+"web": {
+"url": "https://clementine-orb-hlt4.squarespace.com/leadership-team",
+"final": "https://clementine-orb-hlt4.squarespace.com/leadership-team",
+"code": 200,
+"title": "Leadership Team \u2014 REIS ASSOCIATES",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "fixed"
+}
+},
+{
+"n": "24 Hour Fitness",
+"suite": "D100 (2500 Dunstan)",
+"area": "RV",
+"bid": "364",
+"notes": [],
+"web": {
+"url": "https://www.24hourfitness.com/",
+"final": "https://www.24hourfitness.com/",
+"code": 200,
+"title": "Gym Memberships and Personal Training | 24 Hour Fitness",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Houston Numismatic Exchange",
+"suite": "2486 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"web": {
+"url": "https://hnex.com/",
+"final": "https://hnex.com/",
+"code": 200,
+"title": "Gold and Silver Dealer | Houston, TX | Houston Numismatic Exchange",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Sarah Stewart",
+"suite": "2476 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"web": {
+"url": "https://shopsarahstewart.com/",
+"final": "https://shopsarahstewart.com/",
+"code": 200,
+"title": "Shop Sarah Stewart",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Trends Tailor & Alterations",
+"suite": "2470 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": []
+},
+{
+"n": "Atelier Hair Salon",
+"suite": "2444 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/350329/tenant",
+"pid": "350329",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Styling Bar",
+"suite": "2444 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/350329/tenant",
+"pid": "350329",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2444 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/350329/tenant",
+"pid": "350329",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Artisan Designs",
+"suite": "2450 TIMES BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Removed: server shows an empty directory"
+],
+"dropped": "http://www.artisandesigns.com",
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Paletas Morelia",
+"suite": "2446 TIMES BLVD",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"web": {
+"url": "https://www.paletasmorelia.com/location/rice-village-ice-cream/",
+"final": "https://www.paletasmorelia.com/location/rice-village-ice-cream/",
+"code": 200,
+"title": "Ice Cream Shop in Houston (Rice Village) | Morelia Gourmet Paletas",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Caf\u00e9 Rabelais",
+"suite": "2442 TIMES BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [],
+"web": {
+"url": "http://www.caferabelais.com/",
+"final": "https://www.caferabelais.com/",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks",
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2412 TIMES BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Premium Kids",
+"suite": "2420 TIMES BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Premium Goods",
+"suite": "2416 TIMES BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Torchy's Tacos",
+"suite": "2400 TIMES BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://torchystacos.com/",
+"final": "https://torchystacos.com/",
+"code": 200,
+"title": "Torchy's Tacos - Torchys.com | Damn Good Tacos | Torchy's Tacos - Torchys.com | Damn Good Tacos | Torchy's Tacos",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Vacant (formerly Refresqueria)",
+"suite": "5407 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "930",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6431943/tenant",
+"pid": "6431943",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Vacant (formerly Village Fitness)",
+"suite": "2369 RICE BLVD",
+"area": "RVA",
+"bid": "930",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6431943/tenant",
+"pid": "6431943",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Macaron by Patisse",
+"suite": "2371 RICE BLVD",
+"area": "RVA",
+"bid": "930",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://www.macaronbypatisse.com/",
+"final": "https://www.macaronbypatisse.com/",
+"code": 200,
+"title": "",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6431943/tenant",
+"pid": "6431943",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Bitty & Beau's Coffee",
+"suite": "2367 RICE BLVD",
+"area": "RVA",
+"bid": "930",
+"notes": [],
+"web": {
+"url": "https://www.bittyandbeauscoffee.com/location/houston/",
+"final": "https://www.bittyandbeauscoffee.com/location/houston/",
+"code": 200,
+"title": "Coffee Shop in Houston | Bitty & Beau's | Coffee in Houston",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+}
+},
+{
+"n": "Learning Express Toys & Gifts",
+"suite": "2401 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://learningexpresshouston.com/",
+"final": "https://learningexpresshouston.com/",
+"code": 200,
+"title": "Learning Express Houston",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Van Jewelers",
+"suite": "2403 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Fig Tree",
+"suite": "2405 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [],
+"web": {
+"url": "https://figtreejewelryandaccessories.com/",
+"final": "https://figtreejewelryandaccessories.com/",
+"code": 200,
+"title": "Boho Chic and Unique Woman\u2019s Accessories \u2013 Fig Tree Jewelry & Accessories",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2409 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": []
+},
+{
+"n": "Vacant",
+"suite": "2411 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": []
+},
+{
+"n": "Vacant",
+"suite": "2413 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": []
+},
+{
+"n": "Vacant",
+"suite": "2415 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": []
+},
+{
+"n": "La Taste",
+"suite": "2417 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"dropped": "http://www.latasteboutique.com/",
+"social": {
+"url": "https://www.facebook.com/100939957090",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F100939957090",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "The Santa Experience (pop-up)",
+"suite": "2421 RICE BLVD",
+"area": "RVA",
+"bid": null,
+"notes": []
+},
+{
+"n": "Soccer 4 All",
+"suite": "2425 RICE BLVD",
+"area": "RVA",
+"bid": "1385",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://soccerpost.com/",
+"final": "https://soccerpost.com/",
+"code": 200,
+"title": "Welcome to America's Soccer Store!",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Piermarini",
+"suite": "2427 RICE BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": [],
+"web": {
+"url": "https://www.piermarinihouston.com",
+"final": "https://www.piermarinihouston.com/",
+"code": 200,
+"title": "Piermarini",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108482/tenant",
+"pid": "6108482",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Caia",
+"suite": "2429 RICE BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108482/tenant",
+"pid": "6108482",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "The Hive",
+"suite": "2431 RICE BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://www.thehivepopup.com/",
+"final": "https://www.thehivepopup.com/",
+"code": 200,
+"title": "The Hive | local small businesses | 2431 Rice Boulevard, Houston, TX, USA",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108482/tenant",
+"pid": "6108482",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (Formerly Gist of Joy)",
+"suite": "2433 RICE BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": []
+},
+{
+"n": "Croissant Brioche",
+"suite": "2435 RICE BLVD",
+"area": "RVA",
+"bid": "1383",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://croissantbriochehouston.mybistro.online/",
+"final": "https://croissantbriochehouston.mybistro.online/",
+"code": 200,
+"title": "Croissant-Brioche - 2435 Rice Blvd, Houston - Full Menu and Reviews",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108482/tenant",
+"pid": "6108482",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "FedEx Office",
+"suite": "2455 RICE BLVD",
+"area": "RVA",
+"bid": "1382",
+"notes": [],
+"web": {
+"url": "https://local.fedex.com/en-us/tx/houston/office-0112",
+"final": "https://local.fedex.com/en-us/tx/houston/office-0112",
+"code": 200,
+"title": "FedEx Office - Houston, TX | Print, Ship, Pack & Return",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108480/tenant",
+"pid": "6108480",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "2nd Street",
+"suite": "2455 RICE BLVD",
+"area": "RVA",
+"bid": "1382",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108480/tenant",
+"pid": "6108480",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "H&R Block",
+"suite": "2503 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://www.hrblock.com/tax-office-near-me/texas/houston/42829",
+"final": "https://www.hrblock.com/tax-office-near-me/texas/houston/42829",
+"code": 403,
+"title": "Access Denied",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374190/tenant",
+"pid": "9374190",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Ariel's Village Shoe Shop",
+"suite": "2507 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://villageshoeshop.com/",
+"final": "https://villageshoeshop.com/",
+"code": 200,
+"title": "Village Shoe Shop |",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374190/tenant",
+"pid": "9374190",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Isidora Flower & Gift Shop",
+"suite": "2509 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"web": {
+"url": "https://www.isidoraflowers.com",
+"final": "https://www.isidoraflowers.com/",
+"code": 200,
+"title": "|-Home- Isidora Flower & Gift Shop - Houston",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374190/tenant",
+"pid": "9374190",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Gawee Jewelry",
+"suite": "2511 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"web": {
+"url": "https://gaweejewelers.com/",
+"final": "https://gaweejewelers.com/",
+"code": 200,
+"title": "Houston Holiday Hours - Gawee Jewelers",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374190/tenant",
+"pid": "9374190",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Arkolab",
+"suite": "2513 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"web": {
+"url": "https://www.arkollab.com/",
+"final": "https://www.arkollab.com/",
+"code": 200,
+"title": "ARKOLLAB",
+"status": "ok",
+"flags": [
+"brand spells it Arkollab"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374190/tenant",
+"pid": "9374190",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Jennifer's Nail & Spa",
+"suite": "2515 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/5567938/tenant",
+"pid": "5567938",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Dromgoole's",
+"suite": "",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"web": {
+"url": "https://www.dromgooles.com/",
+"final": "https://www.dromgooles.com/",
+"code": 200,
+"title": "Dromgoole's Fine Writing Instruments",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/5567938/tenant",
+"pid": "5567938",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Burn",
+"suite": "2519 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"web": {
+"url": "https://burnsmokeshophouston.com/burn-vape-smoke-shop-rice-village/",
+"final": "https://burnsmokeshophouston.com/burn-vape-smoke-shop-rice-village/",
+"code": 200,
+"title": "Burn Smoke Shop & Vape Shop In Rice Village 77005 | Get The Best Stuff",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6105642/summary",
+"pid": "6105642",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Chiro",
+"suite": "2521 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374191/summary",
+"pid": "9374191",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Dave's Hot Chicken",
+"suite": "2525 RICE BLVD",
+"area": "RVA",
+"bid": "1390",
+"notes": [],
+"web": {
+"url": "https://daveshotchicken.com/",
+"final": "https://daveshotchicken.com/",
+"code": 200,
+"title": "Home | Dave's Hot Chicken",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1432615/summary",
+"pid": "1432615",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab"
+]
+}
+},
+{
+"n": "Miniso",
+"suite": "2501 RICE BLVD",
+"area": "RVA",
+"bid": "1388",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/rm71zh1/summary?propertyId=1499480",
+"pid": "1499480",
+"tid": "rm71zh1",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Roma",
+"suite": "2347 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "980",
+"notes": [],
+"web": {
+"url": "https://www.romahouston.com/",
+"final": "https://www.romahouston.com/",
+"code": 200,
+"title": "Roma | An Italian Eatery",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372195/tenant",
+"pid": "9372195",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Vacant (formerly Celebrity Cupcakes)",
+"suite": "2343 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "982",
+"notes": []
+},
+{
+"n": "Coco Crepes & Waffles",
+"suite": "2339 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "981",
+"notes": [],
+"web": {
+"url": "https://www.cococrepes.com/",
+"final": "https://www.cococrepes.com/",
+"code": 200,
+"title": "Coco Crepes & Coffee | Houston's Original Creperie",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Katia's European Spa",
+"suite": "2343 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "981",
+"notes": [],
+"web": {
+"url": "https://katiaseuropeanspa.com/",
+"final": "https://katiaseuropeanspa.com/",
+"code": 200,
+"title": "Katia\u2019s European Spa \u2013 Luxury Skincare & Expert Buccal Massage",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6725772/tenant",
+"pid": "6725772",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Village Greenery & Flowers",
+"suite": "2323 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "970",
+"notes": [],
+"web": {
+"url": "http://villagegreeneryflowers.com/",
+"final": "https://villagegreeneryflowers.com/",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks",
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108485/tenant",
+"pid": "6108485",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Amati Violin Shop",
+"suite": "2315 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "967",
+"notes": [],
+"web": {
+"url": "https://www.amativiolinshop.com/",
+"final": "https://www.amativiolinshop.com/",
+"code": 200,
+"title": "Amati Violin Shop | Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108487/tenant",
+"pid": "6108487",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Modern Animal",
+"suite": "6027 KIRBY DR",
+"area": "RVA",
+"bid": "1387",
+"notes": [
+"Fixed: old location URL returned 404; current clinic page used"
+],
+"web": {
+"url": "https://www.modernanimal.com/clinics/rice-village",
+"final": "https://www.modernanimal.com/clinics/rice-village",
+"code": 200,
+"title": "Rice Village vet, pet clinic & animal hospitals | Modern Animal",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "fixed"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6105643/tenant",
+"pid": "6105643",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Removery",
+"suite": "2530 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://removery.com/tattoo-removal/locations/tx/houston/bissonnet-street/?rsi=1d486101-d188-4ecf-bd1a-4a017c1cb028&utm_source=LocalFacebook&utm_medium=SOCi&utm_campaign=Tier1_Houston_Rice",
+"final": "https://removery.com/tattoo-removal/locations/tx/houston/bissonnet-street/?rsi=1d486101-d188-4ecf-bd1a-4a017c1cb028&utm_source=LocalFacebook&utm_medium=SOCi&utm_campaign=Tier1_Houston_Rice",
+"code": 200,
+"title": "Houston Laser Tattoo Removal | Rice Village Removery",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Sports Cards",
+"suite": "2528 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "The Boardroom",
+"suite": "2526 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://www.boardroomsalon.com/locations/houston-rice-village",
+"final": "https://www.boardroomsalon.com/locations/houston-rice-village",
+"code": 200,
+"title": "Men's Haircuts in Rice Village, Houston | Boardroom Salon",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Body Spec",
+"suite": "2524 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://www.bodyspec.com/scan-me/bodyspec_houston_rice_village",
+"final": "https://www.bodyspec.com/scan-me/bodyspec_houston_rice_village",
+"code": 200,
+"title": "",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Snip-its",
+"suite": "2522 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://local.snipits.com/houston-tx-rice-village",
+"final": "https://local.snipits.com/houston-tx-rice-village",
+"code": 200,
+"title": "Snip-its - Kids Haircuts",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Insomnia Cookies",
+"suite": "2520 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://insomniacookies.com/locations/houston",
+"final": "https://insomniacookies.com/locations/houston",
+"code": 200,
+"title": "Warm Cookies Delivered Until 3 AM Daily | Insomnia Cookies",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Teahouse Tapioca & Tea",
+"suite": "2518B RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://teahousebeverage.com/",
+"final": "https://teahousebeverage.com/",
+"code": 200,
+"title": "Home | The Teahouse",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Meltwitch)",
+"suite": "2518A RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Chicken Kitchen)",
+"suite": "2516 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Pokeworks",
+"suite": "2514 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://pokeworks.com/",
+"final": "https://pokeworks.com/",
+"code": 200,
+"title": "Pokeworks \u2013 Fresh Poke Bowls & Burritos, Poke Your Way",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Ma Kitchen",
+"suite": "2512 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Copy Doctor",
+"suite": "2504 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"web": {
+"url": "https://copydr.com/",
+"final": "https://copydr.com/",
+"code": 200,
+"title": "Printing Services in Houston & Friendswood, TX | Copy Doctor",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2502 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Rice ER",
+"suite": "2500 RICE BLVD",
+"area": "RVA",
+"bid": "1387",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/858058/summary",
+"pid": "858058",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Needle House",
+"suite": "2422 TANGLEY ST",
+"area": "RVA",
+"bid": "399",
+"notes": [],
+"web": {
+"url": "https://www.theneedlehouse.com/",
+"final": "https://www.theneedlehouse.com/",
+"code": 200,
+"title": "Needle House | Needlepoint Supplies | Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/fzl7l7v/summary",
+"pid": null,
+"tid": "fzl7l7v",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "LeMel",
+"suite": "2418 TANGLEY ST",
+"area": "RVA",
+"bid": "398",
+"notes": [],
+"web": {
+"url": "https://shoplemel.com/",
+"final": "https://shoplemel.com/",
+"code": 200,
+"title": "LeMel \u2013 Lemel | Everyday Luxury, Made to Layer.",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/bxx1c1b/summary",
+"pid": null,
+"tid": "bxx1c1b",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "Lincoln Leadership Advisors",
+"suite": "",
+"area": "RVA",
+"bid": null,
+"notes": []
+},
+{
+"n": "Demo's Automotive",
+"suite": "2438 TANGLEY ST",
+"area": "RVA",
+"bid": "383",
+"notes": [],
+"dropped": "http://www.demosautomotive.com/",
+"social": {
+"url": "https://www.facebook.com/158981347466773",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F158981347466773",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/2yn8qqb/summary",
+"pid": null,
+"tid": "2yn8qqb",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "Sword Plumbing",
+"suite": "2510 TANGLEY ST",
+"area": "RVA",
+"bid": "378",
+"notes": [],
+"web": {
+"url": "https://www.swordplumbing.com/",
+"final": "https://www.swordplumbing.com/",
+"code": 200,
+"title": "Sword Plumbing",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/eg213hm/summary",
+"pid": null,
+"tid": "eg213hm",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "Rejure Wellness & Aesthetics",
+"suite": "2514 TANGLEY ST",
+"area": "RVA",
+"bid": "379",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/er45mqn/summary",
+"pid": null,
+"tid": "er45mqn",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "The Village Dentist",
+"suite": "2518 TANGLEY ST",
+"area": "RVA",
+"bid": "380",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://tadrosdental.com",
+"final": "https://tadrosdental.com/",
+"code": 200,
+"title": "Top-Rated Dentist in 77065 | Tadros Dental Cypress",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6098864/tenant",
+"pid": "6098864",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "O'Reilly Auto Parts",
+"suite": "2522 TANGLEY ST",
+"area": "RVA",
+"bid": "375",
+"notes": [],
+"web": {
+"url": "https://locations.oreillyauto.com/en-us/tx/houston/autoparts-436.html",
+"final": "https://locations.oreillyauto.com/en-us/tx/houston/autoparts-436.html",
+"code": 200,
+"title": "Auto Parts Store in Houston, TX | O'Reilly Auto Parts #436",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/1p4lle4/summary",
+"pid": null,
+"tid": "1p4lle4",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2528-2530 TANGLEY ST",
+"area": "RVA",
+"bid": "375",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/7n9vt8w/summary",
+"pid": null,
+"tid": "7n9vt8w",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record, no property ID"
+]
+}
+},
+{
+"n": "Isle Pedispa",
+"suite": "5819 KIRBY DR STE C",
+"area": "RVA",
+"bid": "369",
+"notes": [],
+"web": {
+"url": "https://islepedispa.com/",
+"final": "https://islepedispa.com/",
+"code": 200,
+"title": "Pedicures, Manicures and More - Isle Pedispa | Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1434194/tenant",
+"pid": "1434194",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Jersey Mike's",
+"suite": "5819 KIRBY DR STE B",
+"area": "RVA",
+"bid": "369",
+"notes": [],
+"web": {
+"url": "https://www.jerseymikes.com/15001/houston-tx",
+"final": "https://www.jerseymikes.com/15001/houston-tx",
+"code": 403,
+"title": "jerseymikes.com",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1434194/tenant",
+"pid": "1434194",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Sleep Number",
+"suite": "5819 KIRBY DR STE A",
+"area": "RVA",
+"bid": "369",
+"notes": [],
+"web": {
+"url": "https://www.sleepnumber.com/",
+"final": "https://www.sleepnumber.com/",
+"code": 200,
+"title": "Mattresses, Bedding, Pillows | Sleep Number",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1434194/tenant",
+"pid": "1434194",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Soap Hand Car Wash",
+"suite": "5818 KIRBY DR",
+"area": "RVA",
+"bid": "276",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/5867470/tenant",
+"pid": "5867470",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Jos. A. Bank",
+"suite": "2539 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1372",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://www.josbank.com/store-locator/houston-tx-873",
+"final": "https://www.josbank.com/store-locator/houston-tx-873",
+"code": 0,
+"title": "",
+"status": "blocked",
+"flags": [
+"no answer to automated requests on two tries"
+],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/860006/tenant",
+"pid": "860006",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Vacant",
+"suite": "2537 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1364",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/860006/tenant",
+"pid": "860006",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Texas Country Western Boots",
+"suite": "2535 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1372",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/860006/tenant",
+"pid": "860006",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Winfield's Chocolate Bar",
+"suite": "2531 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1375",
+"notes": [
+"Fixed: CoStar cell was plain text; now a hyperlink in the corrected workbook"
+],
+"web": {
+"url": "https://winfieldschocolate.com/",
+"final": "https://winfieldschocolate.com/",
+"code": 200,
+"title": "Winfield's Chocolate Bar | Handcrafted Chocolates & Gifts, Houston TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/860006/tenant",
+"pid": "860006",
+"tid": null,
+"tab": "tenant",
+"hyperlink": false,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Sherwin-Williams",
+"suite": "2525 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1371",
+"notes": [],
+"web": {
+"url": "https://www.sherwin-williams.com/store-locator/paint-store/houston/tx/707403",
+"final": "https://www.sherwin-williams.com/store-locator/paint-store/houston/tx/707403",
+"code": 200,
+"title": "Sherwin-Williams Paint Store - Houston, TX #707403",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1589818/summary",
+"pid": "1589818",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab"
+]
+}
+},
+{
+"n": "Brandy Melville",
+"suite": "2521 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1370",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/vn0zcwf/summary?propertyId=853672",
+"pid": "853672",
+"tid": "vn0zcwf",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"same CoStar tenant record as 4 other listings"
+]
+}
+},
+{
+"n": "J. McLaughlin",
+"suite": "2519 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1370",
+"notes": [],
+"web": {
+"url": "https://www.jmclaughlin.com/pages/store-locator-tx-rice-village",
+"final": "https://www.jmclaughlin.com/pages/store-locator-tx-rice-village",
+"code": 200,
+"title": "J.McLaughlin Houston, TX Store Hours, Directions & Info",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/vn0zcwf/summary?propertyId=853672",
+"pid": "853672",
+"tid": "vn0zcwf",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"same CoStar tenant record as 4 other listings"
+]
+}
+},
+{
+"n": "Crossroads Trading",
+"suite": "2517 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1370",
+"notes": [],
+"web": {
+"url": "https://crossroadstrading.com/location/houston-university-blvd/",
+"final": "https://crossroadstrading.com/location/houston-university-blvd/",
+"code": 200,
+"title": "Houston University Blvd. - Crossroads",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/vn0zcwf/summary?propertyId=853672",
+"pid": "853672",
+"tid": "vn0zcwf",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"same CoStar tenant record as 4 other listings"
+]
+}
+},
+{
+"n": "Lily Rain",
+"suite": "2515 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1370",
+"notes": [],
+"web": {
+"url": "https://www.lilyrain.com/",
+"final": "https://www.lilyrain.com/",
+"code": 200,
+"title": "Home | LilyRain",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/vn0zcwf/summary?propertyId=853672",
+"pid": "853672",
+"tid": "vn0zcwf",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"same CoStar tenant record as 4 other listings"
+]
+}
+},
+{
+"n": "Hemline",
+"suite": "2513 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1370",
+"notes": [],
+"web": {
+"url": "https://shophemlinericevillage.com/",
+"final": "https://shophemlinericevillage.com/",
+"code": 200,
+"title": "Hemline Rice Village | Houston Women's Clothing Boutique",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/vn0zcwf/summary?propertyId=853672",
+"pid": "853672",
+"tid": "vn0zcwf",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"same CoStar tenant record as 4 other listings"
+]
+}
+},
+{
+"n": "Vacant (FORMERLY FRNDS)",
+"suite": "2441 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1360",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/8302176/summary",
+"pid": "8302176",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab"
+]
+}
+},
+{
+"n": "Gem Rock",
+"suite": "2439 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1364",
+"notes": []
+},
+{
+"n": "Vacant (formerly Pressed Juicery)",
+"suite": "2437 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1364",
+"notes": []
+},
+{
+"n": "Alo",
+"suite": "2433 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1361",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372197/tenant",
+"pid": "9372197",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Baskin-Robbins",
+"suite": "2429 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1361",
+"notes": [],
+"web": {
+"url": "https://locations.baskinrobbins.com/tx/houston/2431-university-blvd-331652-br?utm_source=Yext&utm_medium=organic&utm_campaign=Yext",
+"final": "https://locations.baskinrobbins.com/tx/houston/2431-university-blvd-331652-br?utm_source=Yext&utm_medium=organic&utm_campaign=Yext",
+"code": 200,
+"title": "Baskin-Robbins 2431 University Blvd, Houston: in Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372196/tenant",
+"pid": "9372196",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Class Tailor Alterations",
+"suite": "2429 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1361",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372196/tenant",
+"pid": "9372196",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Pure Barre",
+"suite": "2429 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1361",
+"notes": [],
+"web": {
+"url": "https://www.purebarre.com/location/houston-west-u-tx",
+"final": "https://www.purebarre.com/location/houston-west-u-tx",
+"code": 403,
+"title": "Attention Required! | Cloudflare",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372196/tenant",
+"pid": "9372196",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "El Meson",
+"suite": "2425 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "1361",
+"notes": [],
+"web": {
+"url": "https://elmeson.com/",
+"final": "https://elmeson.com/",
+"code": 200,
+"title": "Latin Restaurant in Houston TX | El Meson",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372201/tenant",
+"pid": "9372201",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Bridals by Nancy",
+"suite": "6117 KIRBY DR",
+"area": "RVA",
+"bid": "1391",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9372199/tenant",
+"pid": "9372199",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Ovations)",
+"suite": "6117 KIRBY DR",
+"area": "RVA",
+"bid": "1391",
+"notes": []
+},
+{
+"n": "Main Street Theater",
+"suite": "2540 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"web": {
+"url": "https://mainstreettheater.com/",
+"final": "https://mainstreettheater.com/",
+"code": 200,
+"title": "Main Street Theater \u2013 Deep Heart. Engaged Mind.",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6208031/tenant",
+"pid": "6208031",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Universal Fabric Center",
+"suite": "2530 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"web": {
+"url": "https://www.universal-fabric.com/",
+"final": "https://www.universal-fabric.com/",
+"code": 200,
+"title": "HOME | Universal Fabric",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6109718/tenant",
+"pid": "6109718",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Luxury Cat Boarding",
+"suite": "2522 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6109715/tenant",
+"pid": "6109715",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Plush Nail Studio",
+"suite": "2520 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"dropped": "http://plushnailsstudio.com/",
+"social": {
+"url": "https://www.facebook.com/183392738526878",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F183392738526878",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/502083/tenant",
+"pid": "502083",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Love & Make Workshop",
+"suite": "2516 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"web": {
+"url": "https://www.loveandmake.com/",
+"final": "https://www.loveandmake.com/",
+"code": 200,
+"title": "Love & Make - Welcome to Love & Make",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Joseph Wallack, CPA",
+"suite": "2518 TIMES BLVD",
+"area": "",
+"bid": "1389",
+"notes": [],
+"rejected": {
+"url": "https://josephslegacyrescue.org",
+"why": "mapped place points to another business"
+}
+},
+{
+"n": "Vacant",
+"suite": "2518 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": []
+},
+{
+"n": "Kasra Persian Grill",
+"suite": "2514 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"web": {
+"url": "http://www.kasrarestaurants.com/",
+"final": "https://www.kasrarestaurants.com/",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks",
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6109714/summary",
+"pid": "6109714",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "The Gypsy Poet",
+"suite": "2512 TIMES BLVD",
+"area": "RVA",
+"bid": "1389",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6109719/summary",
+"pid": "6109719",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Emerson Sloan",
+"suite": "2438 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://www.emersonsloan.com/",
+"final": "https://www.emersonsloan.com/",
+"code": 200,
+"title": "Houston Party Supplies, Balloons & Gifts | Emerson Sloan",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/793955/tenant",
+"pid": "793955",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Raspberry Rose Boutique",
+"suite": "2434 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://raspberryroseboutique.com/",
+"final": "https://raspberryroseboutique.com/",
+"code": 200,
+"title": "RaspberryRoseBoutique",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/793955/tenant",
+"pid": "793955",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Collegiate Cleaners",
+"suite": "2430 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374189/tenant",
+"pid": "9374189",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Bath & Body Works)",
+"suite": "2428 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374189/tenant",
+"pid": "9374189",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "K-Town Poke",
+"suite": "2424 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://ktownpoke.com/",
+"final": "https://ktownpoke.com/",
+"code": 200,
+"title": "Home - K-Town Poke",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1455709/tenant",
+"pid": "1455709",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Tiger Noodle House",
+"suite": "2424A RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://tigernoodletexas.com/",
+"final": "https://tigernoodletexas.com/",
+"code": 200,
+"title": "Home - Tiger Noodle House",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1455709/tenant",
+"pid": "1455709",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Serenity Studio Energy Salon)",
+"suite": "2422 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/5543505/tenant",
+"pid": "5543505",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Sweet Paris Cr\u00eaperie & Caf\u00e9",
+"suite": "2420 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://www.sweetparis.com/",
+"final": "https://www.sweetparis.com/",
+"code": 200,
+"title": "Sweet Paris Cr\u00eaperie | Savory French Salads, Breakfast & Drinks",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/5543505/tenant",
+"pid": "5543505",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Edible",
+"suite": "2418 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://www.ediblearrangements.com/pages/stores/2418-rice-blvd-houston-tx-77005",
+"final": "https://www.ediblearrangements.com/pages/stores/2418-rice-blvd-houston-tx-77005",
+"code": 200,
+"title": "Edible Arrangements\u00ae Houston, TX: 2418 Rice Blvd",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Sharetea",
+"suite": "2416 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://www.1992sharetea.com/",
+"final": "https://www.1992sharetea.com/",
+"code": 200,
+"title": "Boba Tea Drinks Near You. Sharetea - Best Bubble Tea Brand",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Fallen Angel",
+"suite": "2414 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://fallenangelstore.com/",
+"final": "https://fallenangelstore.com/",
+"code": 200,
+"title": "Fallen Angel",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Catch Catch",
+"suite": "2412 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Purple Mango",
+"suite": "2410 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "http://purplemangokids.com",
+"final": "http://purplemangokids.com/",
+"code": 200,
+"title": "Boy's shoes \u2013 purplemangokids",
+"status": "ok",
+"flags": [
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Space Village Caf\u00e9",
+"suite": "2408 RICE BLVD",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"social": {
+"url": "https://www.facebook.com/106360197629154",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F106360197629154",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/7749916/tenant",
+"pid": "7749916",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Three Dog Bakery",
+"suite": "",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://www.threedogbakeryhtx.com/",
+"final": "https://www.threedogbakeryhtx.com/",
+"code": 200,
+"title": "Three Dog Bakery Houston",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Almaza Jewelers",
+"suite": "",
+"area": "RVA",
+"bid": "1386",
+"notes": [
+"Removed: domain not connected (Wix error)"
+],
+"dropped": "http://www.almazajewelers.com/"
+},
+{
+"n": "The Village Dentistry",
+"suite": "",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://thevillagedentistry.com/?utm_source=facebook&utm_medium=social_media",
+"final": "https://thevillagedentistry.com/?utm_source=facebook&utm_medium=social_media",
+"code": 200,
+"title": "Best Cosmetic Dentist in Houston, TX | Trusted Houston Dentist",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "A Cheese Affair",
+"suite": "",
+"area": "RVA",
+"bid": "1386",
+"notes": [],
+"web": {
+"url": "https://acheeseaffair.com/",
+"final": "https://acheeseaffair.com/",
+"code": 200,
+"title": "One moment, please...",
+"status": "blocked",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Rice Village Diamonds",
+"suite": "2376 RICE BLVD",
+"area": "RVA",
+"bid": "929",
+"notes": [],
+"web": {
+"url": "https://www.ricevillagediamonds.com/",
+"final": "https://www.ricevillagediamonds.com/",
+"code": 200,
+"title": "Top Fine Jewelry Store in Houston Texas | Rice Village Diamonds",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Lot 8 Salon",
+"suite": "2372 RICE BLVD",
+"area": "RVA",
+"bid": "929",
+"notes": [],
+"web": {
+"url": "https://lot8salon.glossgenius.com/",
+"final": "https://lot8salon.glossgenius.com/",
+"code": 200,
+"title": "Lot 8 Salon | Hair Salon in Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Rice Village Nail & Spa",
+"suite": "2368 RICE BLVD",
+"area": "RVA",
+"bid": "929",
+"notes": [],
+"web": {
+"url": "http://ricevillagenailandspahouston.com/",
+"final": "http://ricevillagenailandspahouston.com/",
+"code": 200,
+"title": "Rice Village Nail and Spa",
+"status": "ok",
+"flags": [
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Thriller",
+"suite": "2368B RICE BLVD",
+"area": "RVA",
+"bid": "929",
+"notes": [],
+"social": {
+"url": "https://www.facebook.com/108310137609539",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F108310137609539",
+"code": 400,
+"title": "Error",
+"status": "broken",
+"flags": [
+"HTTP 400",
+"social profile, no website"
+],
+"loc": false
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "The UPS Store",
+"suite": "2368A RICE BLVD",
+"area": "RVA",
+"bid": "926",
+"notes": [],
+"web": {
+"url": "https://locations.theupsstore.com/tx/houston/2368a-rice-blvd?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+"final": "https://locations.theupsstore.com/tx/houston/2368a-rice-blvd?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+"code": 200,
+"title": "Shipping, Mailing and Printing Service Near Me in Houston, TX | The UPS Store - 2368A Rice Blvd",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Village Cleaners",
+"suite": "2366 RICE BLVD",
+"area": "RVA",
+"bid": "926",
+"notes": [
+"Removed: domain not connected (Wix error)"
+],
+"dropped": "http://www.villagecleanershouston.com",
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "British Isles",
+"suite": "2366 RICE BLVD",
+"area": "RVA",
+"bid": "926",
+"notes": [],
+"rejected": {
+"url": "https://www.chron.com/bestofthebest/#/gallery/533676600/",
+"why": "mapped place points to another business"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Memorial Eye Center",
+"suite": "2366 RICE BLVD",
+"area": "RVA",
+"bid": "926",
+"notes": [],
+"web": {
+"url": "https://www.memorialeyecenter-rice-village.com/",
+"final": "https://www.memorialeyecenter-rice-village.com/",
+"code": 200,
+"title": "Eye Doctors in University Place | Memorial Eye Center - Rice Village",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Jackson & Ryan Architects",
+"suite": "2370 RICE BLVD STE 210",
+"area": "RVA",
+"bid": "929",
+"notes": [],
+"web": {
+"url": "https://www.jacksonryan.com//",
+"final": "https://www.jacksonryan.com//",
+"code": 200,
+"title": "Jackson & Ryan Architects",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/240519/tenant",
+"pid": "240519",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Island Grill",
+"suite": "2365 RICE BLVD #A",
+"area": "RVA",
+"bid": "930",
+"notes": [],
+"web": {
+"url": "http://islandgrillhouston.com/index.html",
+"final": "https://islandgrillhouston.com/index.html",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks",
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Purple Glaze",
+"suite": "2365 RICE BLVD #D",
+"area": "RVA",
+"bid": "930",
+"notes": [],
+"web": {
+"url": "https://www.purpleglazepottery.com/",
+"final": "https://www.purpleglazepottery.com/",
+"code": 200,
+"title": "Paint Your Own Ceramic Studio | United States | Purple Glaze",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Perimeter Gallery",
+"suite": "",
+"area": "RVA",
+"bid": "930",
+"notes": [],
+"web": {
+"url": "https://www.perimeterart.com/",
+"final": "https://www.perimeterart.com/",
+"code": 200,
+"title": "Perimeter Art Gallery & Custom Framing",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Upstairs",
+"suite": "",
+"area": "RVA",
+"bid": "925",
+"notes": [],
+"web": {
+"url": "https://upstairsbarandlounge.com/",
+"final": "https://upstairsbarandlounge.com/",
+"code": 200,
+"title": "Home - Upstairs - Bar and Lounge",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Hungry's",
+"suite": "",
+"area": "RVA",
+"bid": "925",
+"notes": [],
+"web": {
+"url": "http://www.hungryscafe.com",
+"final": "http://www.hungryscafe.com/",
+"code": 202,
+"title": "",
+"status": "ok",
+"flags": [
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Rice Village Animal Hospital",
+"suite": "2348 RICE BLVD",
+"area": "RVA",
+"bid": "923",
+"notes": [],
+"web": {
+"url": "https://rvahpet.com/",
+"final": "https://rvahpet.com/",
+"code": 200,
+"title": "Veterinarian in Houston, TX | Rice Village Animal Hospital",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108479/tenant",
+"pid": "6108479",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Little Woodrow's",
+"suite": "5611 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "942",
+"notes": [],
+"web": {
+"url": "https://littlewoodrows.com/locations/rice-village/",
+"final": "https://littlewoodrows.com/locations/rice-village/",
+"code": 200,
+"title": "Rice Village - Little Woodrow's",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108481/tenant",
+"pid": "6108481",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Vacant (formerly Istanbul Grill)",
+"suite": "5613 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "942",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/tenants/locations/detail/2967mdb/summary?propertyId=7025195",
+"pid": "7025195",
+"tid": "2967mdb",
+"tab": "tenant record",
+"hyperlink": true,
+"flags": [
+"CoStar tenant record",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Sushi by Hidden",
+"suite": "5216 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "403",
+"notes": [
+"Fixed: booking-site link replaced with the restaurant site"
+],
+"web": {
+"url": "https://sushibyhidden.com/",
+"final": "https://sushibyhidden.com/",
+"code": 200,
+"title": "Sushi By Hidden",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "fixed"
+}
+},
+{
+"n": "Cyclone Anaya's",
+"suite": "5214 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "403",
+"notes": [],
+"web": {
+"url": "https://www.cycloneanaya.com/",
+"final": "https://www.cycloneanaya.com/",
+"code": 200,
+"title": "Cyclone Anaya's | Home",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Liberty Kitchen & Oysterette",
+"suite": "5212 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "403",
+"notes": []
+},
+{
+"n": "Coppa Osteria",
+"suite": "5210 MORNINGSIDE DR",
+"area": "RVA",
+"bid": "403",
+"notes": [],
+"web": {
+"url": "http://coppaosteriahouston.com/",
+"final": "https://coppaosteriahouston.com/",
+"code": 403,
+"title": "Just a moment...",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks",
+"http, not https"
+],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Fellini Caf\u00e9",
+"suite": "5211 KELVIN DR",
+"area": "RVA",
+"bid": "403",
+"notes": [],
+"web": {
+"url": "https://www.fellinihouston.com/",
+"final": "https://www.fellinihouston.com/",
+"code": 200,
+"title": "Fellini Caff\u00e8 \u2013 Fellini Caff\u00e8",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Hand & Stone",
+"suite": "5213 KELVIN DR",
+"area": "RVA",
+"bid": "403",
+"notes": [],
+"web": {
+"url": "https://handandstone.com/locations/houston-rice-village/",
+"final": "https://handandstone.com/locations/houston-rice-village/",
+"code": 403,
+"title": "",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": true,
+"src": "overture"
+}
+},
+{
+"n": "Duck N Bao",
+"suite": "5215 KELVIN DR",
+"area": "RVA",
+"bid": "403",
+"notes": []
+},
+{
+"n": "Josephine's Aveda",
+"suite": "5217 KELVIN DR",
+"area": "RVA",
+"bid": "403",
+"notes": []
+},
+{
+"n": "Milton's",
+"suite": "5117 KELVIN DR # 200",
+"area": "RVA",
+"bid": "382",
+"notes": [],
+"web": {
+"url": "https://www.opentable.com/r/miltons-houston",
+"final": "https://www.opentable.com/r/miltons-houston",
+"code": 0,
+"title": "",
+"status": "blocked",
+"flags": [
+"no answer to automated requests on two tries",
+"booking or delivery site, not the tenant site"
+],
+"loc": true,
+"src": "overture"
+}
+},
+{
+"n": "The Owl",
+"suite": "2424 DUNSTAN RD # 150",
+"area": "RVA",
+"bid": "382",
+"notes": [],
+"web": {
+"url": "https://www.owlbarhouston.com/",
+"final": "https://www.owlbarhouston.com/",
+"code": 200,
+"title": "The Owl Bar | best happy hours in houston | 2424 Dunstan Road, Houston, TX, USA",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Local Foods",
+"suite": "2424 DUNSTAN RD #125",
+"area": "RVA",
+"bid": "401",
+"notes": [],
+"web": {
+"url": "https://www.houstonlocalfoods.com/",
+"final": "https://www.houstonlocalfoods.com/",
+"code": 200,
+"title": "",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Dutch Bros Coffee",
+"suite": "2301 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": null,
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/13586447/tenant",
+"pid": "13586447",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Next Actor Studio",
+"suite": "",
+"area": "RVA",
+"bid": "372",
+"notes": [],
+"web": {
+"url": "https://nextactor.com/",
+"final": "https://nextactor.com/",
+"code": 200,
+"title": "Top Acting School in the City - Next Actor Studio",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "SBA Lending",
+"suite": "",
+"area": "RVA",
+"bid": "377",
+"notes": [],
+"web": {
+"url": "https://sbalending.com",
+"final": "https://sbalending.com/",
+"code": 200,
+"title": "SBA Lending \u2013 Loan Process \u2013 SBA Lending \u2013 Loan Process",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Peach Fuzz",
+"suite": "",
+"area": "RVA",
+"bid": null,
+"notes": []
+},
+{
+"n": "Sculpted Physique",
+"suite": "",
+"area": "RVA",
+"bid": "377",
+"notes": [
+"Removed: store unavailable"
+],
+"dropped": "http://sculpted-physique-houston.myshopify.com/"
+},
+{
+"n": "CVS",
+"suite": "6011 KIRBY DR",
+"area": "RVA",
+"bid": "1396",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6102189/tenant",
+"pid": "6102189",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "Salento Bistrot",
+"suite": "2407 KIRBY DR",
+"area": "RVA",
+"bid": "1385",
+"notes": [],
+"web": {
+"url": "https://salentobistrot.com/",
+"final": "https://salentobistrot.com/",
+"code": 200,
+"title": "Salento Bistrot - Rice Village | Houston, TX",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/9374188/tenant",
+"pid": "9374188",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"same CoStar property as tenants drawn on another building"
+]
+}
+},
+{
+"n": "Thursday Boot Company",
+"suite": "5407 KELVIN DR",
+"area": "RVA",
+"bid": "1384",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/24303/tenant",
+"pid": "24303",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Velvet Taco",
+"suite": "2525 RICE BLVD",
+"area": "RVA",
+"bid": "1390",
+"notes": [],
+"web": {
+"url": "https://www.velvettaco.com/location/rice-village/",
+"final": "https://www.velvettaco.com/location/rice-village/",
+"code": 200,
+"title": "Locations | Get the Best Tacos in Rice Village delivered! | Velvet Taco",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/1432615/summary",
+"pid": "1432615",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab"
+]
+}
+},
+{
+"n": "Houston Natural Mattress",
+"suite": "6111 KIRBY DR",
+"area": "RVA",
+"bid": "1391",
+"notes": [],
+"web": {
+"url": "https://www.houstonnaturalmattress.com",
+"final": "https://www.houstonnaturalmattress.com/",
+"code": 403,
+"title": "Error 403 Forbidden",
+"status": "blocked",
+"flags": [
+"HTTP 403: site refuses automated checks"
+],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6109720/tenant",
+"pid": "6109720",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "Inkstorm Tattoo",
+"suite": "6115 KIRBY DR",
+"area": "RVA",
+"bid": "1391",
+"notes": [],
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/10288602/summary",
+"pid": "10288602",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab",
+"building holds tenants under more than one CoStar property"
+]
+}
+},
+{
+"n": "River Oaks Plant House",
+"suite": "6103 KIRBY DR",
+"area": "RVA",
+"bid": "1393",
+"notes": [
+"Removed: domain now redirects to another business"
+],
+"dropped": "https://riveroaksplanthouse.com",
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6105638/tenant",
+"pid": "6105638",
+"tid": null,
+"tab": "tenant",
+"hyperlink": true,
+"flags": [
+"opens the tenant tab"
+]
+}
+},
+{
+"n": "24 Labs",
+"suite": "6117 KIRBY DR",
+"area": "RVA",
+"bid": "1391",
+"notes": [],
+"web": {
+"url": "https://the24labs.com",
+"final": "https://the24labs.com/",
+"code": 200,
+"title": "Home - 24 labs",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Vitamin Shoppe",
+"suite": "",
+"area": "RVA",
+"bid": "367",
+"notes": [],
+"web": {
+"url": "https://locations.vitaminshoppe.com/tx/houston/vitamins-supplements-houston-tx-232.html",
+"final": "https://locations.vitaminshoppe.com/tx/houston/vitamins-supplements-houston-tx-232.html",
+"code": 200,
+"title": "Vitamins and Supplements | The Vitamin Shoppe\u00ae Rice Village",
+"status": "ok",
+"flags": [],
+"loc": true,
+"src": "overture"
+}
+},
+{
+"n": "Sweet Moment Nail & Pedi Spa",
+"suite": "",
+"area": "RVA",
+"bid": "367",
+"notes": [],
+"dropped": "http://sweetmomentnailspahouston.com",
+"social": {
+"url": "https://www.facebook.com/270572812796684",
+"final": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F270572812796684",
+"code": 200,
+"title": "Facebook",
+"status": "ok",
+"flags": [
+"social profile, no website"
+],
+"loc": false
+}
+},
+{
+"n": "Stitch in Time",
+"suite": "",
+"area": "RVA",
+"bid": "400",
+"notes": [
+"Removed: mapped site belongs to a needlepoint shop, not the alterations tenant"
+],
+"dropped": "http://www.stitchesintimeneedlepoint.com/"
+},
+{
+"n": "Frost Bank",
+"suite": "",
+"area": "RVA",
+"bid": "368",
+"notes": [],
+"web": {
+"url": "https://www.frostbank.com/",
+"final": "https://www.frostbank.com/",
+"code": 200,
+"title": "A Texas bank where people matter most | Frost Bank",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Blue Ox Group",
+"suite": "",
+"area": "RVA",
+"bid": "400",
+"notes": [],
+"web": {
+"url": "https://theblueoxgroup.com/",
+"final": "https://theblueoxgroup.com/",
+"code": 200,
+"title": "Commercial Real Estate Brokerage | The Blue Ox Group",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+}
+},
+{
+"n": "Pasha Turkish Restaurant",
+"suite": "2325 UNIVERSITY BLVD",
+"area": "RVA",
+"bid": "971",
+"notes": [],
+"web": {
+"url": "https://www.epasha.com/",
+"final": "https://www.epasha.com/",
+"code": 200,
+"title": "Pasha Turkish Restaurant",
+"status": "ok",
+"flags": [],
+"loc": false,
+"src": "overture"
+},
+"costar": {
+"url": "https://product.costar.com/detail/all-properties/6108484/summary",
+"pid": "6108484",
+"tid": null,
+"tab": "summary",
+"hyperlink": true,
+"flags": [
+"opens the summary tab"
+]
+}
+}
+],
+"checked": "2026-11-12"
+}
