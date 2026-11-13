@@ -194,7 +194,7 @@ rvT=[t for b in rv for t in b['tenants']];rvaT=[t for b in rva for t in b['tenan
 sf=sum(t['sf'] or 0 for t in rvT);vac=sum(1 for t in rvT+rvaT if t['c']=='Vacant')
 nb=len([b for b in rv if b['use']!='Parking'])
 SOURCES=[
- dict(id='s_wb',short='Tenant workbook',title='RV Tenant Profiles workbook: Rice rent roll (9/30/25), site plan, CoStar, Google Maps hours (11/10/26)',use='Tenants, suites, listed SF, categories, hours',url=None),
+ dict(id='s_wb',short='Tenant workbook',title='RV Tenant Profiles workbook: tenant canvass done for Rice, site plan, CoStar listings, Google Maps hours (11/10/26)',use='Tenants, suites, listed SF, categories, hours',url=None),
  dict(id='s_map',short='Tenant map',title='Rice Village ground floor tenant map (slide)',use='Suite outlines, suite numbers and tenant placement',url=None),
  dict(id='s_tm',short='Trademark, 2014',title='Trademark Property Company, "Trademark to Lead Transformation of Houston\'s Rice Village," September 17, 2014',use='2014 acquisition, 193,000 SF, three buildings',url='https://trademarkproperty.com/trademark-lead-transformation-houstons-rice-village/'),
  dict(id='s_thr14',short='Rice Thresher, 2014',title='Rice Thresher, "Rice to purchase Rice Village Arcade Shopping Center," February 2014',use='Ground lease purchase option, Weingarten joint venture',url='https://www.ricethresher.org/article/2014/02/news-in-brief-rice-to-purchase-rice-village-arcade-shopping-center'),
