@@ -1,0 +1,7 @@
+inputs/
+*.xlsx
+*.pptx
+*.png
+__pycache__/
+.DS_Store
+shots/
